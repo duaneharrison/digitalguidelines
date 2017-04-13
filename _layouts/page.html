@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body style='padding-top: 85px; '>
+    {% include header.html %}
+    <div>
+      <link rel="stylesheet" href="{{ "/css/sidebar.css" | prepend: site.baseurl }}">
+      <article class="post">
+        <div class="container-fluid">
+            <div class="row row-offcanvas row-offcanvas-left">
+              <!-- sidebar -->
+              <div class="col-sm-2 sidebar-offcanvas" id="sidebar" role="navigation">
+                  <div class="list-group" id='outline'>
+                  </div>
+                  <script type='text/javascript'>
+                    $(function(){
+                      var basicMargin = 8;
+                        var margin = {
+                            "h1" : 0 * basicMargin,
+                            "h2" : 1 * basicMargin,
+                            "h3" : 2 * basicMargin,
+                            "h4" : 3 * basicMargin,
+                            "h5" : 4 * basicMargin,
+                            "h6" : 5 * basicMargin,
+                        }
+                      $('#content').find('h1,h2,h3,h4,h5,h6').each(function(){
+                        var hash = $(this).attr("id");
+                        var title = $(this).html();
+                        var element = $('<a/>',{
+                          class:"list-group-item",
+                          href:"#"+hash,
+                          html:title
+                        }).appendTo('#outline');
+                        element.css('margin-left',margin[$(this).prop('tagName').toLowerCase()]+"%");
+                      });
+                        var adjustAnchor = function() {
+                          var $anchor = $(':target');
+                          var fixedElementHeight = 75;
+                          if ($anchor.length > 0) {
+                              window.scrollTo(0, $anchor.offset().top - fixedElementHeight);
+                          }
+
+                        };
+
+                        $(window).on('hashchange load', function() {
+                            adjustAnchor();
+                        });
+                    });
+                  </script>
+              </div>
+              <!-- main area -->
+              <div class="col-xs-12 col-sm-9 " id="page">
+                <div class="post-content" id='content'>
+                  {{ content }}
+                </div>
+              </div><!-- /.col-xs-12 main -->
+          </div><!--/.row-->
+        </div><!--/.container-->
+      </article>
+    </div>
+  </body>
+</html>

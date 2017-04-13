@@ -1,0 +1,15 @@
+---
+layout: page
+title:  "Second Lesson"
+date:   2017-02-28 15:56:56 +0800
+day: 1
+categories: jekyll update
+sections:
+  - section-1
+  - section-2
+---
+# You can start by typing here.
+
+#how to solve this problem
+
+# hey guysss

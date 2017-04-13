@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="home">
+  <ul class="post-list">
+    {% assign days = site[page.collection] | sort: 'day' | group_by :"day" %}
+    {% for day in days %}
+      <li>
+          <span class="post-meta" id="day-{{day.name}}">
+            <h3>
+                Day {{day.name}}
+            </h3>
+          </span>
+      </li>
+      {% for page in day.items%}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
+            {{ page.title }}
+          </a>
+        </h2>
+      </li>
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>
