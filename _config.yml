@@ -23,13 +23,13 @@ collections:
   web_dev_basic:
     output: true
     permalink: /web-dev-basic/:path.html
-    title: "Web Development Fundamentals"
+    title: "Other Resources"
     shortname: "Web"
     indexurl: /web-dev-basic/
   data_science:
     output: true
     permalink: /data-science/:path.html
-    title: "Data Science and Machine Learning"
+    title: "Web Accessibility Pattern Library"
     shortname: "Data Science"
     indexurl: /data-science/
   ux:
