@@ -25,13 +25,13 @@ collections:
     permalink: /otherresources/:path.html
     title: "Other Resources"
     shortname: "otherresources"
-    indexurl: /otherresoruces/
+    indexurl: /otherresources/
   data_science:
     output: true
-    permalink: /data-science/:path.html
+    permalink: /wa/:path.html
     title: "Web Accessibility Pattern Library"
     shortname: "Data Science"
-    indexurl: /data-science/
+    indexurl: /wa/
   ux:
     output: true
     permalink: /ux/:path.html
