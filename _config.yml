@@ -22,10 +22,10 @@ kramdown:
 collections:
   web_dev_basic:
     output: true
-    permalink: /web-dev-basic/:path.html
+    permalink: /otherresources/:path.html
     title: "Other Resources"
-    shortname: "Web"
-    indexurl: /web-dev-basic/
+    shortname: "otherresources"
+    indexurl: /otherresoruces/
   data_science:
     output: true
     permalink: /data-science/:path.html

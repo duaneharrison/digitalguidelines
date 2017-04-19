@@ -12,7 +12,8 @@ day: 2
 Autocomplete allows users to complete words in text fields without needing to type them in full.
 
 
-```&.ui-state-focus, &.ui-state-active {
+```sh
+&.ui-state-focus, &.ui-state-active {
        a {
          margin: 0;
          color: $cx-white;
@@ -26,6 +27,7 @@ Autocomplete allows users to complete words in text fields without needing to ty
        }
      }
 ```
+
 Components Using this Pattern:
 
 * Flight Search Panel
@@ -39,7 +41,8 @@ Components Using this Pattern:
 
 The button component is useful for committing to an action such as submitting a form.
 
-```<button type="submit" class="button-submit">
+```sh
+<button type="submit" class="button-submit">
     <span class="button-title-small">Search flights</span>
     <span class="button-title-medium">Search</span>
     <span class="button-title-large">Search flights</span>
@@ -47,7 +50,8 @@ The button component is useful for committing to an action such as submitting a 
 </button>
 ```
      
-```.book-trip .button-submit{
+```sh
+	.book-trip .button-submit{
     border:1px solid transparent;
     -webkit-border-radius:2px;
     -moz-border-radius:2px;
