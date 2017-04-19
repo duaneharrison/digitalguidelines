@@ -4,7 +4,7 @@ title:  "Welcome to User Experience Designer Fundamentals"
 day: 0
 ---
 
-# Welcome to User Experience Designer Fundamentals!
+# Digital GUidelines
 
 Our UX/UI bootcamp puts people at the heart of product creation. Learn how to understand user needs, translate them into product requirements, quickly prototype, iterate and create meaningful products as well as a build strong portfolio and career strategy. Please see attached the full course outline. 
 
