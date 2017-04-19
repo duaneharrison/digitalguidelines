@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  "Welcome to User Experience Designer Fundamentals"
+title:  "Digital Guidelines"
 day: 0
 ---
 
 # Digital GUidelines
 
-Our UX/UI bootcamp puts people at the heart of product creation. Learn how to understand user needs, translate them into product requirements, quickly prototype, iterate and create meaningful products as well as a build strong portfolio and career strategy. Please see attached the full course outline. 
+UX/UI bootcamp puts people at the heart of product creation. Learn how to understand user needs, translate them into product requirements, quickly prototype, iterate and create meaningful products as well as a build strong portfolio and career strategy. Please see attached the full course outline. 
 
 After completing this course, students will be able to identify complex tasks and transform them into intuitive accessible and easy to use designs.
 

@@ -11,6 +11,7 @@ email: duane_harrison@cathaypacific.com
 description: Digital Guidelines
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duaneharrison.github.io/digitalguidelines" # the base hostname & protocol for your site
+twitter_username: duaneharrison
 github_username:  duaneharrison
 future: true
 # Build settings
