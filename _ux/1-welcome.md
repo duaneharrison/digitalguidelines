@@ -4,7 +4,7 @@ title:  "Digital Guidelines"
 day: 0
 ---
 
-# Digital GUUUUUidelines
+# Welcome to the Digital Guidelines
 
 The Digital Style guide is collection of colours, design patterns and components for creating user interfaces consistent with the Cathay Pacific website. It contains:
 
@@ -27,3 +27,8 @@ The files above are the most up to date and will be updated when necessary. Cont
 
 
 [CX Digital Style Guide](files/cxstyleguide.sketch)
+
+## Archive
+
+Cathay Dragon
+Photoshop files
