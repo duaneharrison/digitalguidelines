@@ -4,24 +4,26 @@ title:  "Digital Guidelines"
 day: 0
 ---
 
-# Digital GUidelines
+# Digital GUUUUUidelines
 
-UX/UI bootcamp puts people at the heart of product creation. Learn how to understand user needs, translate them into product requirements, quickly prototype, iterate and create meaningful products as well as a build strong portfolio and career strategy. Please see attached the full course outline. 
+The Digital Style guide is collection of colours, design patterns and components for creating user interfaces consistent with the Cathay Pacific website. It contains:
 
-After completing this course, students will be able to identify complex tasks and transform them into intuitive accessible and easy to use designs.
+* Colours
+-  Typography
+-  Headers
+-  Footers
+-  Form Elements
+-  Buttons
+-  Tables
+-  Accordions
+-  Error States
+-  Icons
+-  Video (for guidance please see our video guidelines)
 
-* Exercise conceptualisation ability, visual communication ability, and visualising ideas.
--  Develop design skills, production value and attention to detail.
--  Gain ability to create wireframes as well as visual design compositions.
--  Gain knowledge of Sketch and Invision and other tried and tested design tools.
--  Understanding of how to apply for positions and jobs and gain experience quickly and efficiently. 
 
-Course characteristics:
+# Download the digital styleguide
 
-* Designed for switching careers: Learn the core attributes of UX in an agile approach to learning. 
-* Learning from each other: our course promotes diversity and practises critical design. 
-* UX Design techniques: Quickly master industry standard tools and methodologies.
-* Project based: The course is focused on actionable tasks and real projects.
-* Create useful projects and an effective CV and Portfolio.
+The files above are the most up to date and will be updated when necessary. Contact us if you have your own projects that need to be included in the style guide. For older versions and unsupported formats, please refer to the Digital Style Guide archive. Note that these are unsupported and should be used for reference only.
 
-Lead instructor is Duane Harrison [See Linkedin Profile](https://www.linkedin.com/in/duaneharrison/), Assistant UX Manager at Cathay Pacific with several years of industry and professional experience. 
+
+[CX Digital Style Guide](files/cxstyleguide.sketch)
