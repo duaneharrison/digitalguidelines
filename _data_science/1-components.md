@@ -66,3 +66,24 @@ The button component is useful for committing to an action such as submitting a 
     padding:.8em 0;
 }
 ```
+
+## New Button
+
+New orange button
+
+```sh
+	.book-trip .button-submit{
+    border:1px solid transparent;
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+    background-color:#c2262e;
+    background:linear-gradient(0deg,#a62128 0,#cb464d 100%);
+    -moz-box-shadow:0 1px 0 0 #c6c2c1;
+    -webkit-box-shadow:0 1px 0 0 #c6c2c1;
+    box-shadow:0 1px 0 0 #c6c2c1;
+    color:#fff;
+    width:100%;
+    padding:.8em 0;
+}
+```
