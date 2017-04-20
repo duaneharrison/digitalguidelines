@@ -30,7 +30,7 @@ collections:
     output: true
     permalink: /wa/:path.html
     title: "Web Accessibility Pattern Library"
-    shortname: "wa"
+    shortname: "Data Science"
     indexurl: /wa/
   ux:
     output: true
