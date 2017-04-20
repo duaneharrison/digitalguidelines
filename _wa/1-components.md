@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Web Accessibility Pattern Library"
-day: 2
+day: 0
 ---
 
 # Web Accessibility Pattern Library
