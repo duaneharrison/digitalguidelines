@@ -10,15 +10,14 @@ The Digital Style guide is collection of colours, design patterns and components
 
 * Colours
 -  Typography
--  Headers
--  Footers
--  Form Elements
 -  Buttons
 -  Tables
 -  Accordions
 -  Error States
 -  Icons
--  Video (for guidance please see our video guidelines)
+-  Video 
+-  Digital Strategy
+
 
 
 # Download the digital styleguide
